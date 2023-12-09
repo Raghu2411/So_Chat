@@ -1,4 +1,4 @@
-# So_Chat :speech_balloon:  AKM
+# So_Chat :speech_balloon: 
 
 # Brief
 In today's connected world, effective communication is crucial for both personal and professional relationships. Our chat proposal highlights its robust features and versatility. Our application facilitates seamless communication among multiple users on a single server, catering to diverse needs such as small team collaboration, friends networks, or community discussions. This proposal explores the application's features, functionality, and benefits, demonstrating its ability to enhance communication by providing a secure, efficient, and enjoyable platform for users to connect in real-time.
@@ -21,5 +21,4 @@ In today's connected world, effective communication is crucial for both personal
 - Run the `requirement.txt` file for the installation.
 - Run the server `serverOrigin.py` file.
 - Then, run the client `clientOrigin.py` file.
-
 ![so_chat_image](https://github.com/Raghu2411/So_Chat/assets/40447264/a47c8035-40c2-473d-ac38-7347478b3447)
