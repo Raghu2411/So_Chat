@@ -17,11 +17,7 @@ In today's connected world, effective communication is crucial for both personal
 
 # Gettting Started
 
-First, you need to clone the repo: (https://github.com/Raghu2411/So_Chat.git)
-Run the mongo server (command line will be slightly different based on OS)
-Enter the mongo shell: mongosh
-Create database todolistDB: use todolistDB
-open the project using code editor
-Run the following command line in your code editor's terminal: npm i
-Then Run another following command npm run start to start the project
-Open the broswer and type http://localhost:3000.
+- First, you need to clone the repo: [https://github.com/Raghu2411/So_Chat.git]
+- Run the requirement.txt file for the installation.
+- Run the server (serverOrigin.py) file.
+- Then, run the client (clientOrigin.py) file.
