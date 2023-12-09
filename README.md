@@ -1,4 +1,4 @@
-# So_Chat :speech_balloon:
+# So_Chat :speech_balloon:  AKM
 
 # Brief
 • In today's interconnected world, communication is the lifeblood of our personal and 
